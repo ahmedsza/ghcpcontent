@@ -8,7 +8,8 @@ Collateral from GitHub Copilot Jumpstart Session
 
 [GitHub Spec Kit Structured AI Development (PDF)](/GitHub%20Spec%20Kit%20Structured%20AI%20Development.pdf)
 
-Content will be continously added. CHeck back often for updates.
+[GitHub Copilot SDD](/GitHub%20Copilot%20SDD.pdf)
+
 
 
 
