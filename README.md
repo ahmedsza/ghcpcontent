@@ -39,7 +39,9 @@ The following GitHub Copilot Skills courses listed at [GitHub Skills](https://le
 - [GitHub Copilot Fundamentals Part 1 of 2](https://learn.microsoft.com/en-us/training/paths/copilot/)
 - [GitHub Copilot Fundamentals Part 2 of 2](https://learn.microsoft.com/en-us/training/paths/gh-copilot-2/)
 - [Spec Driven Development with GitHub Spec Kit for Enterprise Developers](https://learn.microsoft.com/en-us/training/modules/spec-driven-development-github-spec-kit-enterprise-developers/)
-
+- [Develop agents and applications using agentic programming tools](https://learn.microsoft.com/en-us/training/paths/create-embed-custom-code-agents/)
+- [Perform code maintenance tasks using GitHub Copilot Agent](https://learn.microsoft.com/en-us/training/paths/perform-code-maintenance-tasks-github-copilot-agent/)
+- [Optimize DevOps with AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/optimize-devops-ai-agents-azure/)
 
 ### Other useful training resources
 - [GitHub Copilot Workshop](https://github.com/tomas-ronec/github-copilot-workshop) - Hands-on workshop for learning GitHub Copilot features and best practices     
