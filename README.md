@@ -76,7 +76,7 @@ Please note that the following third-party resources are not affiliated with Mic
 
 ### Personas/Scenarios
 - [Azure Copilot AKS Troubleshooting](https://github.com/kasunsjc/Code-Snippets/tree/main/Azure-Copilot-AKS-Troubleshooting)
-[GitHub Copilot for Cybersecurity Professionals](https://github.com/timothywarner-org/github-copilot-cybersecurity-professionals) - Resources and guidance for security professionals using GitHub Copilot in cybersecurity workflows
+- [GitHub Copilot for Cybersecurity Professionals](https://github.com/timothywarner-org/github-copilot-cybersecurity-professionals) - Resources and guidance for security professionals using GitHub Copilot in cybersecurity workflows
 - [GitHub Copilot Security Instructions](https://github.com/Robotti-io/copilot-security-instructions) - Security-focused instructions and best practices for GitHub Copilot usage
 
 ### People to Follow
