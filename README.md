@@ -79,6 +79,13 @@ Please note that the following third-party resources are not affiliated with Mic
 - [GitHub Copilot for Cybersecurity Professionals](https://github.com/timothywarner-org/github-copilot-cybersecurity-professionals) - Resources and guidance for security professionals using GitHub Copilot in cybersecurity workflows
 - [GitHub Copilot Security Instructions](https://github.com/Robotti-io/copilot-security-instructions) - Security-focused instructions and best practices for GitHub Copilot usage
 
+
+
+### Video Content
+
+- [Most/All of Burke Halland's YouTube videos on GitHub Copilot](https://www.youtube.com/@BurkeHolland/videos)
+- [Most/All of James Montemagno's YouTube videos on GitHub Copilot](https://www.youtube.com/@JamesMontemagno/videos) 
+
 ### People to Follow
 - [@GitHubCopilot](https://twitter.com/GitHubCopilot) - The official Twitter account for GitHub Copilot, sharing updates, tips, and news about the AI pair programmer.
 - https://www.youtube.com/jamesmontemagno - James Montemagno is a Developer Advocate at Microsoft who frequently shares content about GitHub Copilot and other developer tools on his YouTube channel.
