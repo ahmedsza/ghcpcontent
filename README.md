@@ -34,6 +34,8 @@ The following GitHub Copilot Skills courses listed at [GitHub Skills](https://le
 - [Turn an idea into an app with GitHub Spark](https://github.com/skills/idea-to-app-with-spark) - Turn your thoughts into real web apps by simply describing them, no coding required! 
 
 
+
+
 ### Microsoft Learn 
 - [GitHub on Azure: The Developer Wonderland Challenge Collection](https://learn.microsoft.com/en-us/collections/r3e4b2t436wx7j/) 
 - [MS Learn GitHub Course](https://learn.microsoft.com/en-us/training/courses/gh-300t00)
@@ -51,6 +53,7 @@ The following GitHub Copilot Skills courses listed at [GitHub Skills](https://le
 - [GitHub Copilot Bootcamp](https://github.com/Pwd9000-ML/GitHub-Copilot-Bootcamp) - Comprehensive bootcamp covering GitHub Copilot fundamentals, advanced techniques, and real-world implementation scenarios
 
 ### Agent Driven Development Resources - Microsoft based open source (not built into GitHub Copilot, but relevant to agent-driven development and GitHub Copilot integration)
+- [Agent Package Manager](https://microsoft.github.io/apm/) - A package manager for discovering and installing agent skills and tools
 - [DevSquad Copilot](https://github.com/microsoft/devsquad-copilot) - Resources for GitHub Copilot integration with development teams
 - [Squad](https://github.com/bradygaster/squad) - Developer tools and resources for team collaboration
 - [Spec Kit](https://github.com/github/spec-kit) - Specification-driven development toolkit for GitHub Copilot
