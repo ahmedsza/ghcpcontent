@@ -20,6 +20,12 @@ Collateral from GitHub Copilot Jumpstart Session
 
 [Engineering System Success Playbook](https://github.com/resources/insights/engineering-system-success-playbook) - A playbook for building and maintaining successful engineering systems, which can be applied to the adoption of AI tools like GitHub Copilot.
 
+[Awesome AI Native Development](https://danielmeppiel.github.io/awesome-ai-native/) - PROSE - An architectural style for AI-native development
+ 
+[Agentic SDLC Handbook](https://danielmeppiel.github.io/agentic-sdlc-handbook/) - A Guide to AI-Native Software Development for Leaders and Practitioners
+
+
+
 ### GitHub Copilot Skills Courses
 
 The following GitHub Copilot Skills courses listed at [GitHub Skills](https://learn.github.com/skills) provide step-by-step instructions to help you get started and make the most of GitHub Copilot:
@@ -51,6 +57,7 @@ The following GitHub Copilot Skills courses listed at [GitHub Skills](https://le
 - [GitHub Copilot Customization Handbook](https://copilot-academy.github.io/workshops/copilot-customization/copilot_customization_handbook) - Comprehensive handbook for customizing GitHub Copilot to fit your development workflow
 - [AI Coding Workshop](https://github.com/centricconsulting/ai-coding-workshop) - Hands-on workshop covering AI-assisted coding practices and GitHub Copilot integration techniques
 - [GitHub Copilot Bootcamp](https://github.com/Pwd9000-ML/GitHub-Copilot-Bootcamp) - Comprehensive bootcamp covering GitHub Copilot fundamentals, advanced techniques, and real-world implementation scenarios
+- [AI Native Development Lab](https://github.com/DevExpGbb/ai-native-dev-lab/) - From Vibe Coding to AI Native Development: Learn to build structured AI workflows with VS Code and GitHub Copilot using the PROSE Framework.
 
 ### Agent Driven Development Resources - Microsoft based open source (not built into GitHub Copilot, but relevant to agent-driven development and GitHub Copilot integration)
 - [Agent Package Manager](https://microsoft.github.io/apm/) - A package manager for discovering and installing agent skills and tools
