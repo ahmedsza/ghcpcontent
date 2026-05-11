@@ -95,9 +95,7 @@ Please note that the following third-party resources are not affiliated with Mic
 
 
 ### Video Content
-
-- [Most/All of Burke Halland's YouTube videos on GitHub Copilot](https://www.youtube.com/@BurkeHolland/videos)
-- [Most/All of James Montemagno's YouTube videos on GitHub Copilot](https://www.youtube.com/@JamesMontemagno/videos) 
+- [Videos](/videos.md) - Curated collection of GitHub Copilot video tutorials and playlists
 
 ### People to Follow
 - [@GitHubCopilot](https://twitter.com/GitHubCopilot) - The official Twitter account for GitHub Copilot, sharing updates, tips, and news about the AI pair programmer.
