@@ -52,6 +52,9 @@ The following GitHub Copilot Skills courses listed at [GitHub Skills](https://le
 - [Perform code maintenance tasks using GitHub Copilot Agent](https://learn.microsoft.com/en-us/training/paths/perform-code-maintenance-tasks-github-copilot-agent/)
 - [Optimize DevOps with AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/optimize-devops-ai-agents-azure/)
 
+### GitHub Copilot CLI for Beginners
+- [GitHub Copilot CLI for Beginners](https://awesome-copilot.github.com/learning-hub/cli-for-beginners/) - Learn to supercharge your development workflow with AI-powered command-line assistance. This course covers the basics of using GitHub Copilot CLI, including installation, setup, and practical examples to help you get started with AI-assisted coding in your terminal.
+
 ### Other useful training resources
 - [GitHub Copilot Workshop](https://github.com/tomas-ronec/github-copilot-workshop) - Hands-on workshop for learning GitHub Copilot features and best practices     
 - [GitHub Copilot Customization Handbook](https://copilot-academy.github.io/workshops/copilot-customization/copilot_customization_handbook) - Comprehensive handbook for customizing GitHub Copilot to fit your development workflow
