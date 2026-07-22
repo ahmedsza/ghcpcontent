@@ -11,7 +11,8 @@ Collateral from GitHub Copilot Jumpstart Session
 [GitHub Copilot SDD](/GitHub%20Copilot%20SDD.pdf)
 
 
-
+## Github Copilot UBB Resources
+With the recent announcement of GitHub Copilot UBB (Universal Build Bot), there have been questions re UBB. Instead of listing them here [GitHub Copilot UBB Resources website](https://fimdim.com/ghcp-ubb-resources/) does a fantastic job of consolidating these resources. 
 
 ## Learn more about GitHub Copilot
 

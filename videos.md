@@ -39,3 +39,7 @@
   
 ## James Montemagno's YouTube Playlist
 - [Most/All of James Montemagno's YouTube videos on GitHub Copilot](https://www.youtube.com/@JamesMontemagno/videos) 
+
+
+## Other Videos
+- [How to extend Copilot CLI with custom UI](https://www.youtube.com/watch?v=HcjUnrS41II)       
